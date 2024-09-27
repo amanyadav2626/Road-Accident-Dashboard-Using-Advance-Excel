@@ -73,6 +73,9 @@ Below is a snippet of the final dashboard in Excel.
 * Road Surface Improvements: Analyzing casualty trends based on road surface conditions helps identify areas needing urgent maintenance and surface upgrades for safer travel.
 * Urban Area Interventions: Urban zones should be prioritized for safety interventions, particularly during daytime, to minimize road accidents in densely populated areas.
 
+# Project Link 
+https://lnkd.in/gzUic3xQ
+
 # Done By
 Aman Kumar
 
